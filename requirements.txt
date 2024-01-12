@@ -1,0 +1,7 @@
+numpy==1.23.4
+pandas==1.5.1
+pyarrow==11.0.0
+st_gsheets_connection==0.0.3
+st_pages==0.4.5
+streamlit==1.29.0
+streamlit_tags==1.2.8
